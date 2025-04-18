@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category display_value="">Custom Applications</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order/>
+        <roles>x_cdltd_loaner_app.loaner_request_user</roles>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2025-04-18 09:33:40</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>c4e71d64784122107f44cef1b7ab15f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Loaner Application</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Loaner Application" source="x_cdltd_loaner_app">8a84d560784122107f44cef1b7ab1569</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Application">8a84d560784122107f44cef1b7ab1569</sys_scope>
+        <sys_update_name>sys_app_application_c4e71d64784122107f44cef1b7ab15f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2025-04-18 09:33:40</sys_updated_on>
+        <title>Loaner Application</title>
+        <view_name/>
+    </sys_app_application>
+</record_update>
