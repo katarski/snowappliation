@@ -15,7 +15,7 @@
         <reverse_if_false>true</reverse_if_false>
         <run_scripts>true</run_scripts>
         <script_false><![CDATA[function onCondition() {
-
+	g_form.hideFieldMsg('other');
 }]]></script_false>
         <script_true><![CDATA[function onCondition() {
 	g_form.showFieldMsg('other', 'Where will you pock up the loaner?', 'info');
@@ -28,7 +28,7 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>a3f604d9ed0522107f445cb2d14a667c</sys_id>
-        <sys_mod_count>3</sys_mod_count>
+        <sys_mod_count>4</sys_mod_count>
         <sys_name>Make 'Other' field visible and mandatory - Loaner Request</sys_name>
         <sys_overrides/>
         <sys_package display_value="Loaner Application" source="x_cdltd_loaner_app">8a84d560784122107f44cef1b7ab1569</sys_package>
@@ -36,7 +36,7 @@
         <sys_scope display_value="Loaner Application">8a84d560784122107f44cef1b7ab1569</sys_scope>
         <sys_update_name>sys_ui_policy_a3f604d9ed0522107f445cb2d14a667c</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2025-04-20 11:43:12</sys_updated_on>
+        <sys_updated_on>2025-04-20 11:45:19</sys_updated_on>
         <table>x_cdltd_loaner_app_loaner_request</table>
         <ui_type>10</ui_type>
         <view/>
