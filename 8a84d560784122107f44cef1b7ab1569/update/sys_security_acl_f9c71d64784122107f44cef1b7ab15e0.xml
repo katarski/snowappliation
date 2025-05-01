@@ -2,7 +2,7 @@
     <sys_security_acl action="INSERT_OR_UPDATE">
         <active>true</active>
         <admin_overrides>true</admin_overrides>
-        <advanced>true</advanced>
+        <advanced>false</advanced>
         <condition/>
         <description>Allow delete for records in x_cdltd_loaner_app_loaner_request, for users with role x_cdltd_loaner_app.admin.</description>
         <local_or_existing>Local</local_or_existing>
